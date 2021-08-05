@@ -23,7 +23,7 @@ These are the technologies I can use.
 <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=flat-square&logo=Microsoftsqlserver&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pro Tools-7ACB10?style=flat-square&logo=ProTools&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
