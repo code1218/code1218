@@ -24,6 +24,7 @@ These are the technologies I can use.
   <tr>
     <td>
       <img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue-00964E?style=flat-square&logo=Vue&logoColor=white"/>
     </td>
   </tr>
   <tr>
