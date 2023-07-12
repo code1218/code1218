@@ -23,6 +23,7 @@ These are the technologies I can use.
   </tr>
   <tr>
     <th style="display: flex; justify-content: center">
+      <img src="https://img.shields.io/badge/React-43BBFF?style=flat-square&logo=React&logoColor=white"/>
     </th>
   </tr>
   <tr>
