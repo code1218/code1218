@@ -7,7 +7,7 @@ These are the technologies I can use.
 
 <table>
   <tr>
-    <td style="font-weight: 700">Language</td>
+    <td style="font-weight: 700;">Language</td>
   </tr>
   <tr>
     <td>
@@ -19,7 +19,7 @@ These are the technologies I can use.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: 700">Web Front-End</td>
+    <td style="font-weight: 700;">Web Front-End</td>
   </tr>
   <tr>
     <td>
@@ -28,7 +28,7 @@ These are the technologies I can use.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: 700">Web Back-End</td>
+    <td style="font-weight: 700;">Web Back-End</td>
   </tr>
   <tr>
     <td>
@@ -38,7 +38,7 @@ These are the technologies I can use.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: 700">DataBase</td>
+    <td style="font-weight: 700;">DataBase</td>
   </tr>
   <tr>
     <td>
@@ -48,7 +48,7 @@ These are the technologies I can use.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: 700">etc</td>
+    <td style="font-weight: 700;">etc</td>
   </tr>
   <tr>
     <td>
