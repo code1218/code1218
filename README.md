@@ -19,6 +19,14 @@ These are the technologies I can use.
     </td>
   </tr>
   <tr>
+    <td style="font-weight: 700;">Flutter</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-EEEEEE?style=flat-square&logo=Flutter&logoColor=43BBFF"/>
+    </td>
+  </tr>
+  <tr>
     <td style="font-weight: 700;">Web Front-End</td>
   </tr>
   <tr>
