@@ -77,7 +77,6 @@ Instructor @ Korea IT Academy · Founder @ NeuralCore Lab
 |---|---|---|
 | 🍓 **BerryLink** | AI-based B2B strawberry distribution platform | React · Spring Boot · PostgreSQL · AI |
 | 🏠 **부동산 내편 (HomeSide)** | Real estate platform with AI chatbot (RAG) | Next.js · Spring Boot · pgvector · AWS |
-| 📝 **PostLab** | Markdown blog platform with split-pane editor | React · `@uiw/react-md-editor` |
 | 🤖 **TMS Auto-Grader** | Automated NCS student assessment pipeline | Python · Selenium · GPT-4o |
 | 🤖 **NeuralCore Lab** | AI startup studio — K-SafePave (road maintenance robot R&D) | Python · ROS2 · FastAPI |
 
