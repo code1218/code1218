@@ -8,7 +8,6 @@
 Instructor @ Korea IT Academy · Founder @ NeuralCore Lab
 
 [![Gmail Badge](https://img.shields.io/badge/skjil1218@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:skjil1218@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/우리피셜-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com)
 
 </div>
 
