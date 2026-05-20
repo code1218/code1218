@@ -92,17 +92,6 @@ Currently instructing at **Korea IT Academy 부산점** (since April 2022) under
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Junil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
 <div align="center">
 
 📧 **skjil1218@gmail.com** · 📍 Busan, South Korea
